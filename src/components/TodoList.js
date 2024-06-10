@@ -1,5 +1,3 @@
-// src/components/TodoList.js
-
 import React, { useEffect, useState } from 'react';
 
 import TodoItem from './TodoItem';
