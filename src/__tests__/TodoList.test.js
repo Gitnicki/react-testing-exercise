@@ -1,7 +1,6 @@
-import '@testing-library/jest-dom/extend-expect';
 
+import React from 'react';
 import { fireEvent, render, screen, waitFor } from '@testing-library/react';
-
 import TodoList from '../components/TodoList';
 
 describe('TodoList Component', () => {
